@@ -1,6 +1,5 @@
 // Bienvenidos al juego de los penales, consta de anotar un gol a la IA!
 
-alert("Bienvenidos al juego de los penales, consta de anotar un gol a la IA!")
 
 let gol = true;
 
